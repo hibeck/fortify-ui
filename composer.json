@@ -1,5 +1,5 @@
 {
-    "name": "zacksmash/fortify-ui",
+    "name": "hibeck/fortify-ui",
     "description": "Fortify-driven Laravel UI replacement",
     "keywords": [
         "zacksmash",
@@ -13,10 +13,16 @@
             "email": "zachary.warren@me.com",
             "homepage": "https://zacksmash.github.io",
             "role": "Developer"
+        },
+        {
+            "name": "Henrik Beck",
+            "email": "mail@ibeck.dk",
+            "homepage": "https://ibeck.dk",
+            "role": "Developer"
         }
     ],
     "require": {
-        "laravel/fortify": "^1.5"
+        "laravel/fortify": "^1.7"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^2.16",
